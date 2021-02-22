@@ -1,4 +1,12 @@
-### Hi there 👋
+### Fala pessoal 👋
+
+Sou desenvolvedor .NET para Web e para dispositivos móveis:
+
+- 🔭 Atualmente estou trabalhando com projetos Xamarin para Android e iOS
+- 🌱 Estou estudando visão computacional para Windows e dispositivos móveis
+- 💬 Tenho bons conhecimentos em .NET, .NET Core, Angular, Java/Android, Ladder, Swift e outras tecnologias
+- 📫 https://www.linkedin.com/in/hitalofilipe
+- :books: Sou bacharel em Sistemas de Informação e pós graduado em Arquitetura de Software Distribuido pela PUC Minas
 
 <!--
 **HitaloDeAraujo/HitaloDeAraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
