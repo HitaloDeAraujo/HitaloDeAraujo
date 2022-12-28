@@ -2,7 +2,7 @@
 
 Sou desenvolvedor .NET para Web e para dispositivos móveis:
 
-- 🔭 Atualmente estou trabalhando com projetos Xamarin para Android e iOS
+- 🔭 Atualmente estou trabalhando com projetos para Android e iOS
 - 🌱 Estou estudando visão computacional para Windows e dispositivos móveis
 - 💬 Tenho bons conhecimentos em .NET, .NET Core, Angular, Java/Android, Ladder, Swift e outras tecnologias
 - 📫 https://www.linkedin.com/in/hitalofilipe
